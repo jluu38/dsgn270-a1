@@ -16,7 +16,7 @@ Users with varying purposes will visit the Glenbow website. For this reason, the
 1. A **fixed navigation bar** that opens *hero menus*.
 2. A **directory** at the bottom of each page with a condensed *hero footer*, the museum's physical address, social media, phone number and hours.
 
-Because it is likely users frequently seek the address, hours, and means of contact, the directory satisfices these needs by making this information available on every page.
+Because the address, hours, and means of contact are commonly asked for, the directory satisfices these needs by making the information available on every page.
 
 ### Navigation
 The Glenbow's navigation is **broad and shallow**. With the use of the navigation bar and its number of subcategories, pages are often two clicks away. While it may seem like there are too many subcategories, the hero menus maintain clarity with certain strategies:
