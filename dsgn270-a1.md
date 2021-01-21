@@ -15,14 +15,22 @@ With COVID-19, the Glenbow has taken to social media and their website to offer 
 ### Conventions
 Users with varying purposes will visit the Glenbow website. For this reason, there are two notable conventions on every page:
 
-1. A **floating navigation bar** with a selection of categories presented on *hero menus*.
+1. A **fixed navigation bar** with a selection of categories presented on *hero menus*.
 2. A **directory** at the bottom of each page with a condensed *hero footer*, but also with the museum's physical address (and a link to Google Maps for directions), phone number and hours.
 
 The directory in particular satisfices all users who are looking for the Glenbow's address, hours, or phone number because that information is available on *every* page.
 
 ### Navigation
-For the most part, the Glenbow uses broad and shallow navigation. The navigation bar's categories are not overwhelming, and most subcategories lead to a page.
->Some might consider there to be too many subcategories, however the hero menus open to cover most of the viewport. This allows more subcategories that lead directly to pages while keeping the choices readable.
+The Glenbow's navigation is **broad and shallow**. The nested subcategories presented in the hero menus typically lead to a page, meaning information is often two clicks away. While it may seem like there are many subcategories, the hero menues maintain clarity with certain strategies:
+
+- The hero menus vertically open to cover most of the viewport
+- Subcategories appear in large font and organised in a column on the right-hand side of the hero menus
+- Subcategories that require further options are shifted left into the *negative space* of the hero menus, allowing child subcategories to occupy the former column
+
+  - This use of negative space allows both parent and child subcategories to be visually and logically separated while maintaining the large font size for readability
+
+
+The website also employs the conventions of **cards** and **search filters** within their *What's On* navigation tab. Instead of creating different pages for current, upcoming, and past exhibits, the subcategories link to a single page with a search filter already applied.
 
 ## Visual Hierarchy
 The Glenbow's website succeeds with their use of:
